@@ -703,3 +703,9 @@ th, td {
     padding: 10px;
     text-align: left;
 }
+.W3School{
+          font-size: 30px;
+        border: 2px solid black;
+        background-color: blueviolet;
+        color: blue;
+} 
